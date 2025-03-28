@@ -29,6 +29,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "adwin-dnovyt"
+          project: "adwin-arkyv-demo"
           entrypoint: "jsr:@std/http/file-server"
           root: "dist"
