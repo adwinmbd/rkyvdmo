@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "vite",
+    "make": "vite build --mode client && vite build",
+    "prod": "vite preview"
+  },
+  "exclude": ["dist"],
+  "nodeModulesDir": "auto",
+  "importMap": "./import-map.json"
+}
