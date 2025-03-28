@@ -20,8 +20,9 @@ deno task dev
 
 This will watch the project directory and restart as necessary.
 
+## To-do
+- [ ] Fix about page link
+
 ## Credits
 - [Lunecake](https://lunecake.com)
 
-## To-do
-- [ ] Fix about page link

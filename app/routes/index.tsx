@@ -45,3 +45,8 @@ export default createRoute((c) => {
     </main>
   );
 });
+
+/*
+const path = "/about";
+<a href={`${path}.html`}>about</a>
+*/
