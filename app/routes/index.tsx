@@ -10,7 +10,7 @@ export default createRoute((c) => {
               home
             </a>
 
-            <a class="" href="/about">
+            <a class="" href="/about.html">
               about
             </a>
           </span>
