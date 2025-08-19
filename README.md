@@ -20,6 +20,9 @@ deno task dev
 
 This will watch the project directory and restart as necessary.
 
+## Info
+The `deploy.yml` has been moved from the `.github/workflows` folder to the root because it is no longer needed for deployment in Deno Deploy v2. It is lefthere for reference purposes.
+
 ## To-do
 - [ ] Fix about page link
 
