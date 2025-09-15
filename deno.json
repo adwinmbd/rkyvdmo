@@ -15,5 +15,6 @@
     "remark-frontmatter": "npm:remark-frontmatter",
     "@hono/vite-build/deno": "npm:@hono/vite-build/deno",
     "remark-mdx-frontmatter": "npm:remark-mdx-frontmatter"
-  }
+  },
+  "lock": false
 }

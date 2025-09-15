@@ -5,6 +5,7 @@ dist/
 .hono/
 .wrangler/
 .yarn/
+.vite/
 !.yarn/releases
 .vscode/*
 !.vscode/launch.json
