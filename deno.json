@@ -1,5 +1,7 @@
 {
   "tasks": {
+    "check": "deno fmt --check && deno lint && deno check .",
+    "clean": "rm -rf node_modules && rm -rf dist",
     "dev": "vite",
     "make": "vite build --mode client && vite build",
     "prod": "vite preview"
